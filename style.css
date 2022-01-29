@@ -1,0 +1,23 @@
+@font-face {
+  font-family: tulisanbaru;
+  src: url(Louis.ttf);
+}
+nav {
+  font-family: tulisanbaru;
+  background-color: black;
+}
+.jumbotron {
+  background-color: black;
+  font-family: tulisanbaru;
+  padding-top: 6rem;
+  color: white;
+}
+#about {
+  color: black;
+}
+footer {
+  background-color: black;
+}
+section {
+  padding-top: 4rem;
+}
