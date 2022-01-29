@@ -1,2 +1,2 @@
-# imosite.io
+# imosite.github.io
 Hai, selamat datang.
